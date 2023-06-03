@@ -15,7 +15,7 @@
         icon: 'success',
         html:
           'INGRESÁ' +
-          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.6769046968366!2d-58.598405685488444!3d-34.56173508047038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb981177052df%3A0xa667a7e1c67e721a!2sRecepciones%20Helvecia!5e0!3m2!1ses!2sar!4v1679008108373!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13506.500780744082!2d-64.0964102!3d-32.1873803!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95cd6f1c347f767b%3A0x2771a170cea7e967!2sCampo%20Romero!5e0!3m2!1ses-419!2sar!4v1685814933115!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
           'Podes ampliar el mapa',
           
           
